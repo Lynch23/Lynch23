@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lynch23
-- 👀 I’m interested in learning web development, software engineering and AI.
-- 🌱 I’m currently learning web development.
-- 💞️ I’m looking to collaborate on projects and to gain experience in web development.
+- 👀 I’m learning web development, software engineering and AI.
+- 🌱 I’m currently a student in Energy Engineering.
+- 💞️ I’m looking to collaborate on projects and to gain experience in web development and software enigneering.
 - 📫 You can reach me on LinkedIn @Austin Lynch.
 
 Lynch23/Lynch23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
