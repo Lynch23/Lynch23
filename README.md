@@ -20,8 +20,7 @@
 
 
 ## Contact links
-[![Twitter](http://i.imgur.com/wWzX9uB.png)Twitter](https://www.twitter.com)
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/austin-lynch-process-eng/)
-&nbsp;
+[![Twitter](http://i.imgur.com/wWzX9uB.png)Twitter](https://www.twitter.com) &nbsp;
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/austin-lynch-process-eng/)&nbsp;
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/Lynch23)
 
