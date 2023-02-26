@@ -20,7 +20,7 @@
 
 
 ## Contact links
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[![Twitter](http://i.imgur.com/wWzX9uB.png)Twitter](https://www.twitter.com)
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/austin-lynch-process-eng/)
 &nbsp;
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/Lynch23)
