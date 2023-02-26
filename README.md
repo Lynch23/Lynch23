@@ -1,6 +1,5 @@
-# Lynch Austin
 ## Bio
-Self-taught web-dev and senior year student in Energy and Process Engineering. Currently building projects with the MERN stack. Also looking for collaboration opportunities on AI and open source projects. Notable experience in building back-end servers and databases with Express and MongoDB. Can effectively communicate, document work neatly and write clean code.
+Passionate web developer and senior year student in Energy and Process Engineering. I have developed back-end servers and databases using Express and MongoDB, built easy to use RESTful APIs, developed fully responsive solutions for interfaces. I'm able to communicate effectively, document work neatly and write clean code. I am up to date with latest tech trends 2023+. Currently building projects with the MERN stack. Also looking for collaboration opportunities on AI and open source projects
 
 ## My Tech-Stack
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) &nbsp;
@@ -12,11 +11,11 @@ Self-taught web-dev and senior year student in Energy and Process Engineering. C
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 ## Top repositories on Github
 - [Portfolio](https://github.com/Lynch23/Portfolio.git)
 - [Javascript-Documentation](https://github.com/Lynch23/javascript-documentation.git)
 - [Authentication Demos](https://github.com/Lynch23/Basic-Auth-Conception.git)
-
 
 ## Contact links
 [![Twitter](http://i.imgur.com/wWzX9uB.png)Twitter](https://twitter.com/marvels_agent_A) &nbsp;
