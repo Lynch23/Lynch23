@@ -14,7 +14,7 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ## Top repositories on Github
-- [Portofolio](https://github.com/Lynch23/Portfolio.git)
+- [Portfolio](https://github.com/Lynch23/Portfolio.git)
 - [Javascript-Documentation](https://github.com/Lynch23/javascript-documentation.git)
 - [Authentication Demos](https://github.com/Lynch23/Basic-Auth-Conception.git)
 
