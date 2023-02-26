@@ -1,8 +1,7 @@
-# Lynch Austin  
-- Self-taught Web-Dev.
-- Currently building projects with the MERN stack.
-- Looking for collaboration opportunities on AI and open source projects.
-- Senior Year Student in Energy and Process Engineering.
+# Lynch Austin
+## Bio
+Self-taught web-dev and senior year student in Energy and Process Engineering. Currently building projects with the MERN stack. Also looking for collaboration opportunities on AI and open source projects. Notable experience in building back-end servers and databases with Express and MongoDB. Can effectively communicate, document work neatly and write clean code.
+
 ## My Tech-Stack
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) &nbsp;
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) &nbsp;
