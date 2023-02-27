@@ -1,5 +1,5 @@
 ## Bio
-Passionate web developer and senior year student in Energy and Process Engineering. I have developed back-end servers and databases using Express and MongoDB, built easy to use RESTful APIs, developed fully responsive solutions for interfaces with CSS, javascript and HTML. I'm able to communicate effectively, document work neatly and write clean code. I am up to date with latest tech trends of 2023+. Currently building projects with the MERN stack. Also looking for collaboration opportunities on AI and open source projects
+Passionate web developer and senior year student in Energy and Process Engineering. I have developed back-end servers and databases using Express and MongoDB, built easy to use RESTful APIs, developed fully responsive interfaces with CSS, javascript and HTML. I'm able to communicate effectively, document work neatly and write clean code. I am up to date with latest tech trends of 2023+. Currently building projects with the MERN stack. Also looking for collaboration opportunities on AI and open source projects
 
 ## My Tech-Stack
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) &nbsp;
