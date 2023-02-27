@@ -19,7 +19,6 @@ Passionate web developer and senior year student in Energy and Process Engineeri
 
 ## Contact links
 You can reach me through any of the plateforms below and I will respond as quickly as possible.
-
 [![Twitter](http://i.imgur.com/wWzX9uB.png)Twitter](https://twitter.com/marvels_agent_A) &nbsp;
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/austin-lynch-process-eng/)&nbsp;
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/Lynch23)
