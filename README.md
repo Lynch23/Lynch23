@@ -4,7 +4,7 @@ Passionate web developer and final year student in Energy and Process Engineerin
 ## My Tech-Stack
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) &nbsp;
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) &nbsp;
-![Angular](https://img.shields.io/badge/angular-%2320232a.svg?style=for-the-badge&logo=angular&logoColor=%23FB6662) &nbsp;
+![Angular](https://img.shields.io/badge/angular-%2320232a.svg?style=for-the-badge&logo=angular&logoColor=%23D9272A) &nbsp;
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) &nbsp;
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) &nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) &nbsp;
